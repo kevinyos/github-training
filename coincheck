@@ -24,5 +24,4 @@ const coincheck = (str) => {
 }
 
 console.log(coincheck(49))
-console.log(coincheck(31))
-console.log(coincheck(70))
+
