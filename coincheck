@@ -1,3 +1,5 @@
+Halo repo Kevin
+
 const coincheck = (str) => {
     var output = 0
     var total = str
